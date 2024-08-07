@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Emirhan from Türkiye(Turkey)<br><br>- 🔭 I’m studying Computer Engineering<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Emirhan from Türkiye(Turkey)<br><br>- 🔭 I’m studying Computer Engineering<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I play games</p>
 
 ###
 
@@ -34,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ###
