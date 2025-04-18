@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Emirhan from Türkiye(Turkey)<br><br>- 🔭 I’m studying Computer Engineering<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Emirhan from Türkiye(Turkey)<br><br>- 🔭 I’m studying Computer Engineering<br>- 📚 I'm currently learning Next.js<br>
 
 ###
 
