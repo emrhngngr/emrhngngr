@@ -36,7 +36,7 @@
   "currently_learning":
   [
     "Docker",
-    "Redux.js"
+    "Redux"
   ]
 }
 
