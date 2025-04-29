@@ -41,7 +41,7 @@
 }
 
 ```
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emrhngngr&theme=dark" alt="GitHub Streak" /></a>
 ###
 
 <h3 align="left">Contact:</h3>
@@ -53,3 +53,4 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
