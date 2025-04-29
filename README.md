@@ -41,7 +41,6 @@
 }
 
 ```
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emrhngngr&theme=dark" alt="GitHub Streak" /></a>
 ###
 
 <h3 align="left">Contact:</h3>
